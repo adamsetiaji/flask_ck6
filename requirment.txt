@@ -1,0 +1,6 @@
+pip install pathlib
+pip install flask
+pip install mysql.connector
+pip install tabula
+pip install pandas
+pip install requests
